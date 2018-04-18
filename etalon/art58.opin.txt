@@ -1,0 +1,8 @@
+Египет, Россия, neg, current
+Мэттью Берроуз, США, neg, current
+Роберт Мэннинг, США, neg, current
+Россия, "Исламское государство", neg, current
+Стивен Саймон, США, pos, current
+Джонатан Стивенсон, США, pos, current
+Россия, Китай, pos, current
+Китай, Россия, pos, current

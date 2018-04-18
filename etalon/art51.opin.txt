@@ -1,0 +1,28 @@
+Вашингтон, Исламское государство, neg, current
+Вашингтон, Азия, pos, current
+Вашингтон, Асад, neg, current
+Вашингтон, Москва, neg, past
+Владимир Путин, Китай, pos, current
+Запад, Россия, neg, current
+Китай, ИГИЛ, neg, current
+Китай, Российская империя, pos, past
+Китай, Россия, pos, current
+Китай, Советский Союз, pos, past
+КНР, США, pos, current
+КНР, Украина, pos, current
+Москва, Вашингтон, neg, past
+Москва, Пекин, pos, current
+НАТО, Россия, neg, current
+Пекин, Москва, pos, current
+Путин, Си, pos, current
+Российская империя, Китай, pos, past
+Россия, Азия, pos, current
+Россия, Запад, neg, current
+Россия, ИГИЛ, neg, current
+Россия, Китай, pos, current
+Россия, США, neg, current
+Си Цзиньпин, Владимир Путин, pos, current
+Си Цзиньпин, Россия, pos, current
+США, ИГИЛ, neg, current
+США, КНР, neg, current
+США, Россия, neg, current

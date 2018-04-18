@@ -1,0 +1,21 @@
+США, Китай, neg, current
+США, Россия, neg, current
+Вашингтон, Китай, neg, current
+Вашингтон, Россия, neg, current
+Китай, США, neg, current
+Россия, США, neg, current
+Россия, НАТО, neg, current
+Россия, ЕС, neg, current
+Россия, ООН, pos, current
+Томас Грэм, Россия, neg, current
+Томас Грэм, Москва, neg, current
+Томас Грэм, Путин, neg, current
+США, Москва, neg, current
+Соединенные Штаты, Москва, neg, current
+Европа, НАТО, pos, past
+НАТО, Европа, pos, past
+Вашингтон, Путин, neg, present
+Путин, США, neg, present
+Путин, НАТО, neg, present
+Путин, ЕС, neg, present
+Россия, Запад, neg, present

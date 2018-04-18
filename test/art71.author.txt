@@ -1,0 +1,3 @@
+author, Россия, neg, current
+author, Обама, neg, current
+author, Кремль, neg, current

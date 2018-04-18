@@ -1,0 +1,141 @@
+T1	PER 1 7	Author
+T2	PER 9 16	Unknown
+T3	PER 22 28	Author
+T4	PER 30 37	Unknown
+T5	PER 39 53	Федор Лукьянов
+T6	PER 78 84	Author
+T7	PER 86 93	Unknown
+T8	LOC 100 106	Россия
+T9	PER 133 139	Author
+T10	PER 141 148	Unknown
+T11	PER 188 194	Author
+T12	PER 196 203	Unknown
+T13	ORG 209 222	globalaffairs
+T14	PER 248 254	Author
+T15	PER 256 263	Unknown
+T16	PER 311 327	Владимиру Путину
+T17	PER 331 337	Author
+T18	PER 339 346	Unknown
+T19	PER 466 472	Author
+T20	PER 474 481	Unknown
+T21	LOC 507 513	России
+T22	LOC 590 596	России
+T23	PER 599 605	Author
+T24	PER 607 614	Unknown
+T25	PER 657 671	Сергей Минасян
+T26	ORG 715 721	Кремль
+T27	PER 796 802	Author
+T28	PER 804 811	Unknown
+T29	LOC 917 931	Ближний Восток
+T30	PER 938 944	Author
+T31	PER 946 953	Unknown
+T32	PER 1107 1113	Author
+T33	PER 1115 1122	Unknown
+T34	PER 1237 1243	Author
+T35	PER 1245 1252	Unknown
+T36	LOC 1316 1322	Египта
+T37	PER 1345 1350	Синае
+T38	PER 1373 1379	Author
+T39	PER 1381 1388	Unknown
+T40	LOC 1423 1429	Париже
+T41	PER 1486 1492	Author
+T42	PER 1494 1501	Unknown
+T43	ORG 1504 1520	Неизбежная драка
+T44	LOC 1533 1539	Европу
+T45	PER 1546 1552	Author
+T46	PER 1554 1561	Unknown
+T47	ORG 1585 1591	Совете
+T48	LOC 1678 1684	Россия
+T49	PER 1762 1768	Author
+T50	PER 1770 1777	Unknown
+T51	LOC 1855 1865	Вашингтона
+T52	PER 1888 1894	Author
+T53	PER 1896 1903	Unknown
+T54	PER 1905 1918	Стивен Саймон
+T55	PER 1921 1939	Джонатан Стивенсон
+T56	LOC 1971 1974	США
+T57	PER 2086 2092	Author
+T58	PER 2094 2101	Unknown
+T59	PER 2105 2116	Стивен Уолт
+T60	ORG 2150 2172	Исламского государства
+T61	LOC 2236 2242	России
+T62	PER 2311 2317	Author
+T63	PER 2319 2326	Unknown
+T64	PER 2415 2421	Author
+T65	PER 2423 2430	Unknown
+T66	PER 2510 2516	Author
+T67	PER 2518 2525	Unknown
+T68	PER 2527 2546	Евгений Сатановский
+T69	LOC 2572 2578	Запада
+T70	ORG 2582 2589	Востоке
+T71	PER 2670 2676	Author
+T72	PER 2678 2685	Unknown
+T73	LOC 2704 2719	Ближнем Востоке
+T74	LOC 2751 2769	Соединенных Штатов
+T75	ORG 2774 2795	Восток Дальний скорее
+T76	LOC 2831 2841	Вашингтона
+T77	PER 2845 2851	Author
+T78	PER 2853 2860	Unknown
+T79	PER 2862 2879	Ярослав Лисоволик
+T80	ORG 2928 2958	Транстихоокеанском партнерстве
+T81	PER 3088 3094	Author
+T82	PER 3096 3103	Unknown
+T83	PER 3105 3116	Эндрю Бишоп
+T84	PER 3237 3243	Author
+T85	PER 3245 3252	Unknown
+T86	PER 3254 3271	Василиса Кулакова
+T87	ORG 3310 3339	Федеральной резервной системы
+T88	LOC 3340 3343	США
+T89	PER 3347 3353	Author
+T90	PER 3355 3362	Unknown
+T91	PER 3366 3378	Томоо Кикучи
+T92	PER 3508 3514	Author
+T93	PER 3516 3523	Unknown
+T94	LOC 3565 3575	Вашингтона
+T95	LOC 3578 3584	Пекина
+T96	ORG 3587 3590	АТР
+T97	PER 3597 3603	Author
+T98	PER 3605 3612	Unknown
+T99	PER 3614 3628	Мэттью Берроуз
+T100	PER 3631 3645	Роберт Мэннинг
+T101	LOC 3717 3723	Россию
+T102	LOC 3726 3731	Китай
+T103	PER 3748 3754	Author
+T104	PER 3756 3763	Unknown
+T105	PER 3765 3778	Игорь Денисов
+T106	ORG 3842 3845	КПК
+T107	PER 3887 3893	Author
+T108	PER 3895 3902	Unknown
+T109	PER 3906 3924	Нандан Унникришнан
+T110	PER 3927 3943	Ума Пурушотхаман
+T111	LOC 3963 3968	Индии
+T112	PER 4077 4083	Author
+T113	PER 4085 4092	Unknown
+T114	ORG 4146 4165	Воинственной России
+T115	PER 4170 4176	Author
+T116	PER 4178 4185	Unknown
+T117	ORG 4198 4225	Бирмингемского университета
+T118	PER 4270 4284	Сильваны Малле
+T119	PER 4328 4334	Author
+T120	PER 4336 4343	Unknown
+T121	PER 4374 4387	Джулиан Купер
+T122	PER 4389 4402	Эндрю Монаган
+T123	PER 4405 4420	Ричард Коннолли
+T124	PER 4529 4535	Author
+T125	PER 4537 4544	Unknown
+T126	PER 4788 4794	Author
+T127	PER 4796 4803	Unknown
+T128	ORG 4834 4853	Воинственной России
+T129	PER 4864 4878	Андрей Яковлев
+T130	PER 4882 4888	Author
+T131	PER 4890 4897	Unknown
+T132	PER 4942 4957	Ларисы Паутовой
+T133	PER 5052 5058	Author
+T134	PER 5060 5067	Unknown
+T135	PER 5120 5126	Author
+T136	PER 5128 5135	Unknown
+T137	PER 5170 5176	Author
+T138	PER 5178 5185	Unknown
+T139	LOC 5281 5287	Россия
+T140	PER 5350 5356	Author
+T141	PER 5358 5365	Unknown

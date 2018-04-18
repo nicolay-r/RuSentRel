@@ -1,0 +1,12 @@
+Путин, Европа, neg, current
+Украина, Путин, neg, current
+Путин, Украина, neg, current
+Европа, Россия, neg, current
+Путин, Семерка, neg, current
+Россия, Евросоюз, neg, current
+Климкин, Россия, neg, current
+Климкин, Путин, neg, current
+Климкин, Европа, pos, current
+Климкин, ОБСЕ, pos, current
+
+

@@ -1,0 +1,6 @@
+Россия, ИГ, neg, current
+Россия, Асад, pos, current
+США, ИГ, neg, current
+США, Асад, neg, current
+Москва, Башар Асад, pos, current
+Европа, Асад, neg, current

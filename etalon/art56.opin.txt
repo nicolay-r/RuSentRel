@@ -1,0 +1,43 @@
+American Enterprise Institute, Россия, neg, current
+Heritage Foundation, Россия, neg, current
+Белый дом, Россия, neg, current
+Берни Сандерс, Путин, neg, current
+Варшавский договор, НАТО, pos, past
+Вашингтон, Москва, neg, current
+Генри Киссинджер, Россия, pos, current
+Грузия, Россия, neg, current
+Джон Миршаймер, Россия, pos, current
+Дональд Трамп, Россия, pos, current
+Клинтон, Путин, neg, current
+Куба, Обама, pos, current
+Маккейн, Россия, neg, current
+Марко Рубио, Асад, neg, current
+Марко Рубио, Путин, neg, current
+Москва, Башар Асад, pos, current
+Москва, Вашингтон, neg, current
+Москва, Грузия, neg, past
+Москва, Запад, neg, current
+Москва, ИГИЛ, neg, current
+Москва, НАТО, neg, current
+НАТО, Восточная Европа, pos, current
+НАТО, Польша, pos, current
+НАТО, Прибалтика, pos, current
+Обама, Иран, pos, current
+Обама, Куба, pos, current
+Обама, Россия, neg, current
+Обама, Кремль, neg, current
+Обама, Тихоокеанское партнерство, pos, current
+Россия, ИГИЛ, neg, current
+Россия, НАТО, neg, current
+Россия, Соединенные Штаты, neg, current
+СССР, Соединенные Штаты, neg, past
+Стивен Уолт, Россия, pos, current
+США, Башар Асад, neg, current
+США, ИГИЛ, neg, current
+США, Куба, pos, current
+США, Россия, neg, current
+Украина, Россия, neg, current
+Хиллари Клинтон, Путин, neg, current
+Хиллари Клинтон, Россия, neg, current
+Эвелин Фаркас, Москва, neg, current
+Эвелин Фаркас, Россия, neg, current

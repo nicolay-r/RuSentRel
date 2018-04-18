@@ -1,0 +1,13 @@
+Запад, Россия, neg, current
+НАТО, Польша, pos, current
+НАТО, Россия, neg, current
+НАТО, Украина, pos, current
+НАТО, Черногория, pos, current
+Россия, НАТО, neg, current
+Соединенные Штаты, Украина, pos, current
+Штайнмайер, НАТО, neg, current
+Эштон Картер, Россия, neg, current
+Эстония, Кремль, neg, current
+Литва, Кремль, neg, current
+Латвия, Кремль, neg, current
+Польша, Кремль, neg, current

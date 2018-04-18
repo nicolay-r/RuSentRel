@@ -1,0 +1,5 @@
+author, Путин, neg, current
+author, Мария Снеговая, pos, current
+author, Янукович, neg, current
+author, Украина, neg, past
+author, Николай Патрушев, neg, current

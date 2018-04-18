@@ -1,0 +1,3 @@
+author, Медведев, pos, current
+author, Путин, pos, current
+author, Россия, pos, current

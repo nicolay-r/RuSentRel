@@ -1,0 +1,40 @@
+CNPC, Газпром, pos, current
+Азия, Москва, pos, current
+Балтия, Россия, neg, current
+Белоруссия, Россия, pos, current
+Виктор Янукович, Европейский Союз, neg, past
+Газпром, CNPC, pos, current
+Грузия, Россия, neg, current
+Европа, Гитлер, neg, past
+Европа, Наполеон, neg, past
+Евросоюз, Киев, pos, current
+Евросоюз, Россия, neg, current
+Запад, Россия, neg, current
+Запад, Москва, neg, current
+Казахстан, Россия, pos, current
+Киргизия, Россия, pos, current
+Китай, Россия, pos, current
+Москва, Абхазия, pos, current
+Москва, Азия, pos, current
+Москва, Южная Осетия, pos, current
+НАТО, Россия, neg, current
+Польша, Россия, neg, current
+Россия, Абхазия, pos, current
+Россия, Белоруссия, pos, current
+Россия, Гитлер, neg, past
+Россия, Грузия, neg, past
+Россия, Запад, neg, current
+Россия, Китай, pos, current
+Россия, Наполеон, neg, past
+Россия, НАТО, neg, current
+Россия, США, neg, current
+Россия, Украина, neg, current
+Россия, Южная Осетия, pos, current
+США, Россия, neg, current
+Таджикистан, Россия, pos, current
+Тайвань, Китай, pos, current
+Туркменистан, Россия, pos, current
+Узбекистан, Россия, pos, current
+Украина, Россия, neg, current
+Южная Корея, Китай, pos, current
+Япония, Китай, pos, current

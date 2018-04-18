@@ -1,0 +1,16 @@
+The Economist, Россия, pos, current
+Балтия, Россия, neg, past
+Германия, Россия, neg, past
+Запад, ИГИЛ, neg, current
+Запад, Россия, pos, current
+Италия, Россия, neg, past
+НАТО, Россия, neg, past
+Польша, Россия, neg, past
+Россия, Запад, pos, current
+Россия, ИГИЛ, neg, current
+Россия, НАТО, neg, past
+Россия, Сирия, neg, current
+Россия, Украина, pos, current
+США, Россия, neg, past
+Франция, Россия, neg, past
+G20, Россия, pos, current

@@ -1,0 +1,5 @@
+author, Россия, pos, current
+author, Обама, neg, current
+author, Путин, neg, current
+author, Асад, neg, current
+author, Иран, neg, current

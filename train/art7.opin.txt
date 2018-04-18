@@ -1,0 +1,4 @@
+Лиухто, Путин, neg, current
+Лиухто, Россия, neg, current
+Финляндия, НАТО, pos, current
+Финляндия, Россия, neg, current

@@ -1,0 +1,15 @@
+Соединенные штаты, Россия, neg, current
+Евросоюз, Россия, neg, current
+G8, Россия, neg, current
+Советский Союз, Афганистан, neg, past
+Запад, Советский Союз, neg, past
+Коэ, Россия, neg, current
+IAAF, Россия, neg, current
+Путин, IAAF, neg, current
+Штайнмайер, НАТО, neg, current
+Штайнмайер, Россия, pos, current
+Запад, Россия, neg, current
+Путин, Запад, neg, current
+Путин, НАТО, neg, current
+Россия, Путин, pos, current
+Запад, Москва, neg, current

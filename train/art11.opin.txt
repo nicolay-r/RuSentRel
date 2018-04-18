@@ -1,0 +1,12 @@
+Россия, НАТО, neg, past
+НАТО, Россия, neg, past
+Германия, Россия, neg, past
+Италия, Россия, neg, past
+Франция, Россия, neg, past
+Россия, Запад, pos, current
+Запад, Россия, pos, current
+Россия, Украина, neg, past
+Россия, ИГИЛ, neg, current
+Запад, ИГИЛ, neg, current
+Польша, Россия, neg, past
+страны Балтии, Россия, neg, past

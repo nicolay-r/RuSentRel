@@ -1,0 +1,68 @@
+Абхазия, Анкара, neg, current
+Азербайджан, Армения, neg, current
+Азербайджан, Запад, neg, current
+Азербайджан, Иран, pos, current
+Азербайджан, Россия, pos, current
+Азербайджан, Турция, pos, current
+Анкара, Абхазия, neg, past
+Анкара, Москва, neg, current
+Анкара, Североатлантический блок, pos, current
+Армения, Азербайджан, neg, current
+Армения, Евразийский экономический союз, pos, current
+Армения, Москва, pos, current
+Армения, Россия, pos, current
+Армения, Турция, neg, current
+Грузия, Европейский союз, pos, current
+Грузия, Москва, pos, current
+Грузия, НАТО, pos, current
+Грузия, Турция, pos, current
+Евросоюз, Азербайджан, pos, current
+Евросоюз, Баку, neg, current
+Евросоюз, Грузия, pos, current
+Евросоюз, Турция, pos, current
+Ереван, Москва, pos, current
+Запад, Азербайджан, neg, current
+Запад, Иран, pos, current
+ИГ, Дагестан, neg, current
+Иран, Запад, pos, current
+Исламская Республика, Турция, neg, current
+Москва, Анкара, neg, current
+Москва, Ереван, pos, current
+Москва, Южная Осетия, pos, current
+НАТО, Грузия, pos, current
+НАТО, Россия, neg, past
+Османская империя, Европа, pos, past
+Османская империя, Персия, neg, past
+Османская империя, Российская империя, neg, past
+Персия, Османская империя, neg, past
+Российская империя, Османская империя, neg, past
+Россия, Абхазия, pos, current
+Россия, Армения, pos, current
+Россия, Исламское государство, neg, current
+Россия, Османская империя, neg, past 
+Россия, Турция, neg, current
+Россия, Южная Осетия, pos, current
+Североатлантический альянс, Грузия, pos, current
+Североатлантический альянс, Тбилиси, pos, current
+Соединенные Штаты, Азербайджан, pos, current
+Соединенные Штаты, Грузия, pos, current
+Соединенные Штаты, Турция, pos, current
+США, Армения, pos, current
+США, Баку, neg, current
+США, Евросоюз, neg, current
+США, Южный Кавказ, pos, current
+Тбилиси, Евросоюз, pos, current
+Тбилиси, НАТО, pos, current
+Тбилиси, Североатлантический альянс, pos, current
+Тбилиси, Соединенные Штаты, pos, current
+Тбилиси, Тегеран, pos, current
+Тегеран, Евросоюз, neg, current
+Тегеран, США, neg, current
+Турция, Азербайджан, pos, current
+Турция, Армения, neg, current
+Турция, Грузия, pos, current
+Турция, Исламская республика, neg, current
+Турция, Рабочая партия Курдистана, neg, current
+Турция, Россия, neg, current
+Турция, США, neg, current
+Эрдоган, Баку, pos, current

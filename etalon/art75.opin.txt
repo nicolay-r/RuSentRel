@@ -1,0 +1,45 @@
+Александр Бортников, Путин, pos, current
+Аркадий Ротенберг, Путин, pos, current
+Геннадий Тимченко, Путин, pos, current
+Ельцин, Муртаза Рахимов, pos, past
+ИГ, Кадыров, neg, current
+Иванов, Запад, neg, current
+Иванов, Англия, neg, current
+Кадыров, Владимир Путин, pos, current
+Кадыров, ИГ, neg, current
+Кадыров, Путин, pos, current
+Катерина Путина, Кирилл Шамалов, pos, current
+Кирилл Шамалов, Катерина Путина, pos, current
+Ковальчук, Путин, pos, current
+Кремль, Патрушев, pos, current
+Мадлен Олбрайт, Россия, neg, past
+Михаил Фрадков, Путин, pos, current
+Муртаза Рахимов, Ельцин, pos, past
+Немцов, Фридман, pos, past
+Николай Патрушев, Путин, pos, current
+Николай Патрушев, США, neg, current
+Омар аль-Шишани, Кадыров, neg, current
+Патрушев, Мадлен Олбрайт, neg, current
+Путин, Александр Бортников, pos, current
+Путин, Владимир Гусинский, neg, current
+Путин, Владимир Евтушенков, neg, past
+Путин, Запад, neg, current
+Путин, Кадыров, pos, current
+Путин, Шамалов, pos, current
+Путин, Ковальчук, pos, current
+Путин, Михаил Фрадков, pos, current
+Путин, Михаил Ходорковский, neg, past
+Путин, Муртаза Рахимов, neg, current
+Путин, Николай Патрушев, pos, current
+Путин, Ротенберг, pos, current
+Путин, Сергей Иванов, pos, current
+Путин, Сергей Собянин, pos, current
+Путин, США, neg, current
+Путин, Тимченко, pos, current
+Ротенберг, Путин, pos, current
+Сергей Иванов, Путин, pos, current
+Снеговая, Асад, neg, current
+Снеговая, Путин, neg, current
+Сорос, Россия, neg, current
+Фридман, Немцов, pos, past
+Шамалов, Путин, pos, current

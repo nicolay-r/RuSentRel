@@ -1,0 +1,2 @@
+author, Россия, neg, current
+author, Асад, neg, current

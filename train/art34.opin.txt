@@ -1,0 +1,19 @@
+G7, Россия, neg, current
+Путин, G7, neg, current
+Путин, Большая семерка, neg, current
+Путин, США, neg, past
+Путин, ЕС, neg, past
+Путин, Александр Залдостанов, pos, current
+Александр Залдостанов, "Антимайдан", pos, current
+Ночные волки, Запад, neg, current
+Москва, Афины, pos, current
+Лавров, G7, neg, current
+Украина, Москва, neg, current
+Украина, Путин, neg, current
+Евросоюз, Кремль, neg, current
+Запад, Иран, neg, current
+Михаэль Штюрмер, Америка, neg, current
+Deutsche Welle, Путин, neg, current
+Морре, Ночные волки, neg, current
+Кремль, Греция, pos, current
+Евросоюз, Греция, neg, current

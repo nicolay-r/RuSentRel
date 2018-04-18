@@ -1,0 +1,51 @@
+Австралия, АСЕАН, pos, current
+Азия, Европа, pos, current
+Америка, Китай, neg, current
+АСЕАН, Австралия, pos, current
+АСЕАН, Индия, pos, current
+АСЕАН, Китай, pos, current
+АСЕАН, Новая Зеландия, pos, current
+АСЕАН, Республика Корея, pos, current
+АСЕАН, ЭПШП, pos, current
+АСЕАН, Япония, pos, current
+Ассоциация государств Юго-Восточной азии, ЕАЭС, pos, current
+Белоруссия, Казахстан, pos, current
+Белоруссия, Россия, pos, current
+ВЬетнам, ЕАЭС, pos, current
+ЕАЭС, Ассоциация государств Юго-Восточной азии, pos, current
+ЕАЭС, Вьетнам, pos, current
+ЕАЭС, Каспийский регион, pos, current
+ЕАЭС, Россия, pos, current
+ЕАЭС, ЭПШП, pos, current
+Европа, Азия, pos, current
+Европейский союз, АТР, pos, current
+Европейский союз, ЕАЭС, pos, current
+Евросоюз, ЭПШП, pos, current
+ЕС, ТТИП, neg, current
+Запад, Россия, neg, current
+Индия, АСЕАН, pos, current
+Казахстан, Белоруссия, pos, current
+Казахстан, ВТО, pos, current
+Казахстан, Россия, pos, current
+Каспийский регион, ЕАЭС, pos, current
+Китай, Россия, pos, current
+Колумбия, Мексика, pos, current
+Колумбия, Перу, pos, current
+Колумбия, Чили, pos, current
+Мексика, Колумбия, pos, current
+Мексика, Перу, pos, current
+Мексика, Чили, pos, current
+Новая Зеландия, АСЕАН, pos, current
+Перу, Колумбия, pos, current
+Перу, Мексика, pos, current
+Перу, Чили, pos, current
+Россия, АТР, pos, current
+Россия, Белоруссия, pos, current
+Россия, ЕАЭС, pos, current
+Россия, Казахстан, pos, current
+Россия, Китай, pos, current
+Россия, ТТИП, neg, current
+Чили, Колумбия, pos, current
+Чили, Мексика, pos, current
+Чили, Перу, pos, current
+ШОС, ЭПШП, pos, current

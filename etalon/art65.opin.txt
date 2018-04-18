@@ -1,0 +1,32 @@
+Абдулрахман аль-Рашид, Вашингтон, neg, current
+Абдулрахман аль-Рашид, Иран, neg, current
+Афганистан, США, neg, past
+Биньямин Нетаньяху, Москва, pos, current
+Ближний Восток, Обама, neg, current
+Ближний Восток, Путин, pos, current
+Египет, Путин, pos, current
+Египет, Россия, pos, current
+Египет, США, neg, current
+Израиль, Москва, pos, current
+Израиль, США, neg, current
+Ирак, США, neg, past
+Иран, Бахрейн, pos, current
+Иран, Ирак, neg, current
+Иран, Хайдер аль-Абади, neg, current
+Йемен, Саудовская Аравия, neg, current
+Обама, ИГИЛ, neg, current
+Обама, Путин, neg, current
+Обама, США, pos, current
+Персидский Залив, ИГИЛ, neg, current
+Персидский Залив, Иран, neg, current
+Путин, Башар Асад, pos, current
+Путин, Обама, neg, current
+Путин, Россия, pos, current
+Салман, Москва, pos, current
+Саудовская Аравия, Иран, neg, current
+Саудовская Аравия, Йемен, neg, current
+Саудовская Аравия, Москва, pos, current
+Саудовская Аравия, Россия, pos, current
+Саудовская Аравия, США, neg, current
+США, Иран, neg, current
+США, Израиль, pos, current

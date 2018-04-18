@@ -1,0 +1,25 @@
+Австралия, Россия, neg, current
+Барак Обама, ИГ, neg, current
+Великобритания, ЕС, neg, current
+Германия, Меркель, neg, current
+Запад, Кремль, neg, current
+Запад, Россия, neg, current
+Кремль, Запад, neg, current
+Меркель, Шенген, pos, current
+Обама, Башар Асад, neg, current
+Путин, Обама, neg, current
+Россия, Австралия, neg, current
+Россия, Донбасс, neg, past
+Россия, Запад, neg, current
+Россия, Канберра, neg, current
+Россия, Сирия, neg, current
+Россия, США, neg, current
+Россия, Украина, neg, past
+Франция, Асад, pos, current
+Франция, Даэш, neg, current
+Франция, Россия, pos, current
+Юрий Сергеев, Россия, neg, current
+Лукас, Россия, neg, current
+Грозев, Россия, neg, current
+ЕС, Россия, neg, current
+Тейлор, Россия, neg, current

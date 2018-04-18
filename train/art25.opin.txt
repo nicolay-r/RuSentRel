@@ -1,0 +1,19 @@
+Россия, Европейский Союз, neg, current
+Кремль, Европейский Союз, neg, current
+Путин, ЕС, neg, current
+Россия, НАТО, neg, current
+Италия, Россия, pos, current
+Греция, Россия, pos, current
+Венгрия, Россия, pos, current
+Германия, Россия, pos, current
+Кремль, Альтернатива для Германии, pos, current
+Кремль, Национальный фронт, pos, current
+Путин, Европа, neg, current
+Путин, НАТО, neg, current
+ЕС, Россия, neg, current
+Великобритания, Россия,neg, current
+Великобритания, Украина,pos, current
+Великобритания, ЕС,neg, current
+Москва, Европа, neg, current
+Польша,Великобритания, pos, current
+Польша,Европа, pos, current

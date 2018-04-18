@@ -1,0 +1,15 @@
+Асад, Россия, pos, current
+Гитлер, СССР, neg, past
+ЕС, Украина, pos, current
+НАТО, Турция, pos, current
+Путин, Асад, pos, current
+Россия, Асад, pos, current
+Россия, Турция, neg, current
+Россия, Украина, neg, current
+Сирия, Россия, pos, current
+СССР, Афганистан, neg, past
+СССР, Гитлер, neg, past
+Турция, НАТО, pos, current
+Турция, Россия, neg, current
+Турция, Турецкий поток, pos, past
+Украина, ЕС, pos, current

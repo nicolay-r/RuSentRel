@@ -1,0 +1,6 @@
+author, Хрущев, neg, current
+author, Столтенберг, neg, current
+author, Бридлав, neg, current
+author, Штайнмайер, pos, current
+author, Тренин, pos, current
+author, Расмуссен, neg, current

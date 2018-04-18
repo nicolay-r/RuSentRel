@@ -1,0 +1,1 @@
+author, Путин, pos, current

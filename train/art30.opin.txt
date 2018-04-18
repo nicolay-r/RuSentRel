@@ -1,0 +1,7 @@
+Израиль, Сирия, neg, current
+Нетаньяху, Сирия, neg, current
+Израиль, Голанские высоты, pos, current
+Нетаньяху, Голанские высоты, pos, current
+Нетаньяху, Путин, pos, current
+Сирия, Израиль, neg, current
+Израиль, Москва, pos, current

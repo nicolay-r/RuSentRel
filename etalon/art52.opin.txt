@@ -1,0 +1,37 @@
+ExxonMobil, Роснефть, neg, past
+Вашингтон, Россия, neg, current
+Владислав Сурков, Аллен Гинзберг, pos, current
+Владислав Сурков, Джексон Поллок, pos, current
+Владислав Сурков, Тупак Шакур, pos, current
+Евросоюз, Россия, neg, current
+Запад, Кремль, neg, current
+Китай, Россия, pos, current
+Кремль, Китай, pos, current
+Москва, Пекин, pos, current
+Обама, Иран, pos, current
+Обама, Куба, pos, current
+Обама, Россия, neg, current
+Пекин, Москва, pos, current
+Кремль, Аркадий Ротенберг, pos, current
+Кремль, Геннадий Тимченко, pos, current
+Кремль, Альфа-банк, neg, current
+Россия, ИГИЛ, neg, current
+Россия, Китай, pos, current
+Россия, Крым, pos, current
+Россия, Соединенные Штаты, neg, current
+Россия, Украина, neg, current
+Соединенные Штаты, Владимир Путин, neg, past
+Соединенные Штаты, Россия, neg, current
+Соединенные Штаты, Украина, pos, current
+Соединенные Штаты, Киев, pos, current
+США, Исламское государство, neg, current
+США, Иран, neg, current
+США, Тегеран, neg, current
+США, Кремль, neg, current
+Украина, Россия, neg, current
+Уормут, Россия, neg, current
+Центробанк, Бразилия, pos, current
+Центробанк, БРИКС, pos, current
+Центробанк, Индия, pos, current
+Центробанк, Китай, pos, current
+Центробанк, ЮАР, pos, current

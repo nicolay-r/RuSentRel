@@ -1,0 +1,44 @@
+Али Хаменеи, США, neg, current
+Али Хаменеи, НАТО, neg, current
+Белый дом, Дамаск, neg, current
+Белый дом, Москва, neg, current
+Брюссель, Россия, neg, current
+Вальтер Штайнмайер, Дональд Трамп, neg, current 
+Дамаск, Вашингтон, neg, current
+Дамаск, ИГ, neg, current
+Дамаск, Тегеран, pos, current
+США, ИГИЛ, neg, current
+Европа, Киев, pos, current
+Иран, Сирия, pos, current 
+Иран, США, neg, current
+Италия, Дональд Трамп, neg, current
+ФРГ, Дональд Трамп, neg, current
+Карлуш Кейруш, Хоссам Аль-Саед, neg, current 
+Китай, США, neg, current
+КНР, Вашингтон, neg, current
+Москва, Вашингтон, neg, current
+Москва, Дамаск, pos, current
+Москва, ИГ, neg, current
+Москва, НАТО, neg, current
+Москва, США, neg, current
+НАТО, Европа, pos, current
+НАТО, Россия, neg, current
+НАТО, Финляндия, pos, current
+Пекин, США, neg, current
+Россия, ИГИЛ, neg, current
+Россия, Сирия, pos, past
+Россия, США, neg, current
+Россия, Финляндия, pos, current
+РФ, Вашингтон, neg, current
+Североатлантический альянс, Россия, neg, current
+Сирия, Иран, neg, current 
+Сирия, США, neg, current
+США, Иран, neg, current
+США, Киев, pos, current
+США, Северная Корея, neg, current
+Тегеран, Дамаск, pos, current
+Финляндия, НАТО, neg, current
+Финляндия, Россия, pos, current
+Финляндия, Швеция, pos, current
+ФРГ, Дональд Трамп, neg, current 
+Хоссам Аль-Саед, Карлуш Кейруш, neg, current 

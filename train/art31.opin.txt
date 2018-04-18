@@ -1,0 +1,4 @@
+Обама, Европа, pos, current
+Путин, Европа, neg, current
+Путин, НАТО, neg, current
+Обама, Путин, neg, current

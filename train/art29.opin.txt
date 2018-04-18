@@ -1,0 +1,8 @@
+Биньямин Нетаньяху, Владимир Путин, pos, current
+Владимир Путин, Биньямин Нетаньяху, pos, current
+Россия, Иран, pos, current
+Россия, Сирия, pos, current
+Россия, Израиль, pos, current
+Израиль, Россия, pos, current
+Шамир, Хусейн, pos, current
+Хусейн, Шамир, pos, current

@@ -1,0 +1,20 @@
+Асад, Израиль, neg, current
+Биньямин Нетаньяху, Владимир Путин, pos, current
+Владимир Путин, Биньямин Нетаньяху, pos, current
+Израиль, Голанские высоты, pos, current
+Израиль, Иран, neg, current
+Израиль, Россия, pos, current
+Израиль, Сирия, neg, past
+Иран, Башар Асад, pos, current
+Иран, Израиль, neg, current
+Иран, Россия, pos, current
+Иран, Хезболла, pos, current
+Москва, Израиль, pos, current
+Россия, Башар Асад, pos, current
+Россия, Израиль, pos, current
+Россия, Иран, pos, current
+Сирия, Израиль, neg, past
+Сирия, Россия, pos, current
+США, Асад, neg, current
+США, ИГИЛ, neg, current
+Хафез Асад, Голанские высоты, pos, past

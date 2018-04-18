@@ -1,0 +1,6 @@
+Путин, НАТО, neg, current
+Путин, США, neg, current
+Эстония, Россия, neg, current
+Андрес Восман, Россия, neg, current
+Свен Миксер, Путин, neg, current
+

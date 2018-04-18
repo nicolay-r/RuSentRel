@@ -1,0 +1,62 @@
+Америка, Россия, neg, current
+Андрей Громыко, Джордж Шульц, pos, past
+Белый Дом, Россия, neg, current
+Белый дом, Кремль, neg, current
+Белый дом, Владимир ПУтин, neg, current
+Буш-младший, Россия, neg, past
+Вашингтон, Германия, pos, past
+Вашингтон, Ельцин, neg, past
+Вашингтон, ИГИЛ, neg, current
+Вашингтон, Москва, neg, current
+Вашингтон, НАТО, pos, current
+Владимир Путин, Саакашвили, neg, past
+Германия, СССР, neg, past
+Германия, Вашингтон, pos, past
+Германия, Франция, neg, past
+Грузия, Россия, neg, past
+Джордж Буш, Андропов, pos, past
+Джордж Буш-младший, Михаил Саакашвили, pos, past
+Джордж Буш-младший, Россия, neg, current
+Джордж Шульц, Андрей Громыко, pos, past
+Дуглас Макартур, КНР, neg, past
+ЕС, Соединенные Штаты, pos, current
+Кремль, Белый дом, neg, current
+Маргарет Тэтчер, Андропов, pos, past
+Москва, Грузия, neg, past
+Москва, ИГИЛ, neg, current
+Москва, Саакашвили, neg, past
+Москва, НАТО, neg, past
+Москва, США, neg, current
+Москва, Вашингтон, neg, current
+НАТО, Россия, neg, current
+НАТО, СРЮ, neg, past
+Обама, Владимир Путин, neg, current
+Польша, Россия, neg, current
+Путин, Евразийский экономический союз, pos, current
+Россия, Грузия, neg, past
+Россия, ИГИЛ, neg, current
+Россия, КНР, pos, past
+Россия, НАТО, neg, current
+Россия, США, neg, current
+Россия, Турция, neg, current
+Россия,СРЮ, pos, past
+Румыния, Россия, neg, current
+СССР, Германия, neg, past
+СССР, КНДР, pos, past
+СССР, США, neg, past
+Прибалтика, Россия, neg, current
+США, Евразийский экономический союз, neg, current
+США, ИГИЛ, neg, current
+США, НАТО, pos, current
+США, Россия, neg, current
+США, Путин, neg, current
+США, Вьетнам, neg, past
+США, СССР, neg, past
+США, Украина, pos, current
+США, Южная Корея, pos, past
+Трумэн, Дуглас Макартур, neg, past
+Турция, Россия, neg, current
+Франция, Германия, neg, past
+Франция, Лондон, pos, current
+Франция, НАТО, pos, current
+Япония, Россия, neg, past

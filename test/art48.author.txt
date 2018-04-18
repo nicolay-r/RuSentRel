@@ -1,0 +1,3 @@
+author, ЕС, neg, current
+author, Брюссель, neg, current
+author, Европейский Союз, neg, current

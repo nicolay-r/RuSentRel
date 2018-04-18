@@ -1,0 +1,4 @@
+author, Россия, neg, current
+author, Кудрин, neg, current
+author, Кремль, neg, current
+author, Россия, neg, current

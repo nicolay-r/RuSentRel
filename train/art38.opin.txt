@@ -1,0 +1,6 @@
+Россия, Асад, pos, current
+Путин, Асад, pos, current
+Путин, Запад, neg, current
+Foreign Policy, Путин, neg, current
+Foreign Policy, Асад, neg, current
+Foreign Policy, Москва, neg, current

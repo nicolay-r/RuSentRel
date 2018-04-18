@@ -1,0 +1,17 @@
+Израиль, Россия, pos, current
+Саудовская Аравия, Россия, pos, current
+Египет, Россия, pos, current
+Обама, Путин, neg, current
+Израиль, США, neg, current
+Саудовская Аравия, США, neg, current
+Египет, США, neg, current
+Путин, Асад, pos, current
+Саудовская Аравия, Иран, neg, current
+Иран, Сирия, pos, current
+Обама, Асад, neg, current
+Саудовская Аравия, Йемен, neg, current
+Йемен, Саудовская Аравия, neg, current
+США, Иран, neg, current
+Обама, Иран, neg, current
+Обама, ИГИЛ, neg, current
+США, ИГИЛ, neg, current

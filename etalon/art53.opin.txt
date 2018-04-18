@@ -1,0 +1,34 @@
+Glencore, ИРИ, neg, past
+Gunvor, ИРИ, neg, past
+Mercuria, ИРИ, neg, past
+Trafigura, ИРИ, neg, past
+Vitol, Иран, pos, current
+Афганистан, ИРИ, pos, current
+Белоруссия, Иран, pos, past
+Бразилия, Иран, pos, past
+Венесуэла, Иран, pos, past
+Дели, Иран, pos, past
+ЕС, Иран, neg, current
+Индия, Иран, pos, current
+Ирак, ИРИ, pos, current
+Иран, Индия, pos, current
+Иран, Китай, pos, current
+Иран, Турция, pos, current
+Иран, Южная Корея, pos, current
+Иран, Япония, pos, current
+ИРИ, Швейцария, pos, past
+Китай, Иран, pos, current
+Малайзия, Иран, pos, past
+Организация экономического сотрудничества (ОЭС), Иран, pos, past
+Сирия, Иран, pos, past
+Соединенные Штаты, Самбук, neg, past
+Соединенные Штаты, Иран, neg, past
+США, Тегеран, neg, current
+США, Камбис, neg, past
+Турция, Иран, pos, current
+Центральная Азия, ИРИ, pos, current
+Швейцария, ИРИ, pos, past
+Швейцария, Совбез, pos, past
+Эквадор, Иран, pos, past
+Южная Корея, Иран, pos, current
+Япония, Иран, pos, current

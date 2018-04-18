@@ -1,0 +1,8 @@
+Россия, НАТО, neg, current
+НАТО, Россия, neg, current
+Турция, Россия, neg, current
+Германия, Россия, pos, current
+Франция, Россия, pos, current
+Польша, Россия, neg, current
+Путин, Украина, neg, current
+Прибалтийские государства, Россия, neg, current

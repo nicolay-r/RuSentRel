@@ -1,0 +1,12 @@
+ЕС, Россия, neg, current
+Россия, Украина, neg, current
+Натали Нугеред, Москва, neg, current
+Великобритания, НАТО, pos, current
+НАТО, Великобритания, pos, current
+Европа, США, neg, current
+Ричард Морнингстар, Великобритания, pos, current
+США, Великобритания, pos, current
+Великобритания, США, pos, current
+Обама, Дэвид Кэмерон, pos, current
+Натали Нугеред, США, pos, current
+Нугеред, ЕС, neg, current

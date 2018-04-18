@@ -1,0 +1,22 @@
+DSME, НОВАТЭК, pos, current
+Valmet, Foster Wheeler Petroleum Development, pos, past
+Valmet, Советский Союз, pos, past
+Гарри Трумэн, Советский Союз, neg, past
+Запад, Россия, neg, current
+Запад, СССР, neg, current
+Запад, ПУтин, neg, current
+Индия, Китай, pos, current
+Китай, Индия, pos, current
+Москва, ИГИЛ, neg, current
+Москва, Украина, neg, current
+НОВАТЭК, DSME, pos, current
+Романихин, Schlumberger, neg, current
+Россия, ВТО, pos, current
+Россия, Запад, neg, current
+Россия, ИГИЛ, neg, current
+Россия, Китай, pos, current
+Россия, США, neg, current
+Россия, Украина, neg, current
+Советский Союз, Rauma Repola, pos, past
+Соединенные Штаты, Советский Союз, neg, past
+США, Россия, neg, current

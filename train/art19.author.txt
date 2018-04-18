@@ -1,0 +1,3 @@
+author, Путин, neg, current
+author, Зоммер, neg, current
+author, Штайнмайер, neg, current

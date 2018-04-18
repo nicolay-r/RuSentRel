@@ -1,0 +1,7 @@
+Запад, Бразилия, pos, current
+Запад, Индия, pos, current
+Запад, Китай, pos, current
+Россия, Грузия, neg, past
+Россия, Украина, neg, current
+Россия, НАТО, neg, current
+ООН, Россия, neg, current

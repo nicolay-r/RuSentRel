@@ -1,0 +1,2 @@
+author, Россия, pos, curren
+author, Кремль, neg, current

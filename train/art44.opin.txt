@@ -1,0 +1,61 @@
+Александр Вучич, Запад, pos, current
+Александр Вучич, Милошевич, pos, past
+Александр Дугин, Дональд Трамп, pos, current
+Александр Дугин, Европа, neg, current
+Антоний Мачеревич, Россия, neg, current
+Байден, Юрий Луценко, pos, current
+Вашингтон, Груевский, pos, current
+Виктория Нуланд, Евросоюз, neg, current
+Виктория Нуланд, Украина, pos, current
+Восток, Запад, neg, current
+Германия, Россия, pos, past
+Джеффри Пайетт, Евросоюз, neg, current
+Джо Байден, Груевский, pos, current
+Джо Байден, Петр Порошенко, pos, current
+Евросоюз,"Закон и справедливость", neg, past
+ЕС, Плахотнюк, pos, current
+Запад, Восток, neg, current
+Запад, Джуканович, pos, past
+Запад, Россия, neg, current
+Касько, Шокин, neg, past
+Кремль, Донбасс, pos, current
+Кремль, США, neg, current
+Кремль, НАТО, neg, current
+Мачеревич, Россия, neg, current
+Милошевич, Александр Вучич, pos, past
+Милошевич, Мило Джуканович, pos, past
+Мило Джуканович, Милошевич, pos, past
+Молдавия, Европейский союз,  pos, current
+Молдавия, Евросоюз, pos, current
+Молдавия, ЕС, pos, current
+Москва, НАТО, neg, current
+Николае Тимофти, Влад Филат, neg, past
+Николае Тимофти, Павел Филип, pos, current
+Николае Тимофти, Плахотнюк, neg, current
+Нуланд, Украина, pos, current
+Пайетт, Украина, pos, current
+Пайетт, Юрий Луценко, pos, current
+Плахотнюк, Влад Филат, neg, current
+Плахотнюк, Павел Филип, pos, current
+Польша, Россия, neg, current
+Порошенко, Виктор Шокин, pos, current
+Порошенко, Юрий Луценко, pos, current
+Путин, Александр Дугин, pos, current
+Россия, США, neg, current
+Россия, Джуканович, neg, past
+Россия, Запад, neg, current
+Россия, Молдавия, neg, current
+Россия, Украина, neg, current
+США, ЕС, pos, current
+США, Петр Порошенко, pos, current
+США, Плахотнюк, pos, current
+США, Польша, pos, current
+США, Украина, pos, current
+США, Россия, neg, current
+США, Александр Вучич, pos, current
+Украина, Европейский союз,  pos, current
+Украина, Евросоюз, pos, current
+Украина, Россия, neg, current
+Филип Бридлав, Россия, neg, current
+Шокин, Касько, neg, past
+Юрий Луценко, Порошенко,  pos, current

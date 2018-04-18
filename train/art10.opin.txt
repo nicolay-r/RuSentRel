@@ -1,0 +1,18 @@
+Россия, Австралия, neg, current
+Австралия, Россия, neg, current
+Обама, ИГ, neg, current
+Запад, Россия, neg, current
+Россия, Запад, neg, current
+Россия, Сирия, neg, current
+Франция, Россия, pos, current
+Обама, Асад, neg, current
+Россия, Украина, neg, current
+Украина, Россия, neg, current
+Христо Грозев, Россия, neg, current
+Герхард Гнаук, Россия, neg, current
+Вильям Тейлор, Россия, neg, current
+Вильям Тейлор, ИГИЛ, neg, current
+Владимир Огрызко, Россия, neg, current
+Татьяна Кастуева-Жан, Россия, neg, current
+Франция, Асад, neg, past
+Франция, ИГИЛ, neg, current

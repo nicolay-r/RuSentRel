@@ -1,0 +1,84 @@
+Австралия, Вашингтон, pos, current
+Австралия, США, pos, current
+Аль-Кудс, Асад, pos, current
+Америка, Япония, pos, current
+Бандар бин Султан, Асад, neg, current
+Белый дом, Асад, neg, past
+Буш, Афганистан, neg, past
+Буш, Ирак, neg, past
+Вашингтон, Австралия, pos, current
+Вашингтон, Южная Корея, pos, current
+Вашингтон, Асад, neg, current
+Великобритания, Асад, neg, current
+Виктор Янукович, Евросоюз, neg, past
+Гани, Обама, pos, current
+Германия, Асад, neg, current
+Джо Байден, Путин, neg, current
+Джо Байден, Украина, pos, current
+Джордж Буш-младший, Ирак, neg, past
+Запад, Киев, pos, current
+Запад, Россия, neg, current
+ИГИЛ, Ирак, neg, current
+ИГИЛ, Сирия, neg, current
+ИГИЛ, Асад,neg, current
+Иран, Асад, pos, current
+Иран, ИГИЛ, neg, current
+Клинтон, Петрэус, pos, past
+Клинтон, Асад, neg, past
+Конгресс, Обама, neg, past
+Леон Панетта, Петрэус, pos, past
+Леон Панетта, Асад, neg, past
+Лига арабских государств, США, pos, past
+Лига арабских государств, Каддафи, neg, past
+Москва, Асад, pos, current
+Москва, Киев, neg, current
+НАТО, Каддафи, neg, past
+Нато, Асад, neg, current
+Обама, Азиатско-Тихоокеанский регион, pos, past
+Обама, Азия, pos, current
+Обама, Асад, neg, current
+Обама, ИГИЛ, neg, current
+Обама, Иран, neg, current
+Обама, Каддафи, neg, past
+Обама, Китай, pos, past
+Обама, Куба, pos, current
+Обама, НАТО, pos, current
+Обама, Петрэус, neg, past
+Обама, Россия, neg, current
+Обама, Транстихоокеанское партнерство, pos, current
+Объединенный комитет начальников штабов, Петрэус, pos, past
+Пентагон, Асад, neg, current
+Пентагон, ИГИЛ, neg, current
+Пентагон, Украина, pos, current
+Петрэус, Асад, neg, current
+Петрэус, Бандар бин Султан, pos, current
+Путин, Асад, pos, current
+Путин, Трансатлантический альянс, neg, current
+Путин, Украина, neg, current
+Путин, Янукович, pos, current
+Россия, "Исламское государство", neg, current
+Россия, Запад, neg, current
+Россия, ИГИЛ, neg, current
+Саудовская Аравия, Иран, neg, current
+Саудовская Аравия, ИГИЛ, neg, current
+США, Афганистан, neg, current
+США, ИГИЛ, neg, current
+США, Каддафи, neg, past
+США, Китай, pos, past
+США, Асад, neg, past
+США, Россия, neg, current
+США, Украина, pos, current
+Сьюзан Райс, Каддафи, neg, past
+Руммлер, Обама, pos, past
+Турция, ИГИЛ, neg, current
+Украина, Евросоюз, pos, current
+Франция, Асад, neg, current
+Франция, Обама, pos, past
+ЦРУ, Асад, neg, current
+Хиллари Клинтон, Каддафи, neg, past
+Эль-Кудс, Асад, pos, current
+Южная Корея, Вашингтон, pos, current
+Южная Корея, США, pos, current
+Япония, Америка, pos, current
+Япония, Вашингтон, pos, current
+Япония, США, pos, current

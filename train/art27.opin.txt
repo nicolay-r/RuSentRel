@@ -1,0 +1,27 @@
+Европа, Путин, neg, current
+Великобритания, Евросоюз, neg, current
+Россия, ЕС, neg, current
+Сергей Лавров, Хаммонд, neg, current
+Мария Захарова, Великобритания, neg, current
+Великобритания, Россия, neg, current
+Путин, США, neg, current
+Захарова, Евросоюз, neg, current
+ЕС, США, neg, current
+США, ЕС, neg, current
+Великобритания, США, pos, current
+Украина, Россия, neg, current
+Хаммонд, Россия, neg, current
+Хаммонд, Путин, neg, current
+Путин, СССР, pos, current
+Путин, Варшавский договор, pos, current
+Путин, Хаммонд, neg, current
+Меркель, Россия, neg, current
+Путин, Габриэль, pos, current
+Титов, США, neg, current
+Россия, США, neg, current
+Евросоюз, США, pos, current
+Польша, США, pos, current
+Германия, США, pos, current
+Балтия, США, pos, current
+Украина, ЕС, pos, current
+Грузия, ЕС, pos, current

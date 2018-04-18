@@ -1,0 +1,15 @@
+Германия, Россия, neg, current
+Кари Лиухто, Россия, neg, current
+Карин Энстрем (Karin Enstrom), Россия, neg, current
+Путин, Пекка Вильякайнен (Pekka Viljakainen), pos, past
+Россия, Запад, neg, current
+Запад, Путин, neg, current
+Россия, Финляндия, pos, current
+Саули Ниинистё, Карин Энстрем, neg, current
+США, Россия, neg, current
+Финляндия, Россия, pos, current
+Финляндия, Швеция, neg, current
+Франция, Россия, neg, current
+Швеция, Россия, neg, current
+Юсси Ниинистё (Jussi Niinisto), Саули Ниинистё, pos, current
+Петтери Орпо, Саули Ниинистё, pos, current

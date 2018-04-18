@@ -1,0 +1,2 @@
+Латвия, Россия, pos, current
+Россия, Украина, neg, current

@@ -1,0 +1,5 @@
+Путин, Шойгу, pos, current
+Шойгу, Путин, pos, current
+Запад, Россия, neg, current
+Путин, Кони, pos, current
+Россия, Украина, neg, current

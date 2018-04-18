@@ -1,0 +1,5 @@
+author, Россия, neg, current
+author, Ельцин,neg, current
+author, Путин,neg, current
+author, Москва,neg, current
+author, Игорь Лебедев,neg, current

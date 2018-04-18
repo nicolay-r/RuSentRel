@@ -1,0 +1,4 @@
+Яровая, Володин, pos, current
+Володин, Путин, pos, current
+Россия, ИГИЛ, neg, current
+Таня Локшина, Россия, neg, current

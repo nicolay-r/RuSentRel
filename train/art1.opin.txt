@@ -1,0 +1,21 @@
+США, ИГИЛ, neg, current
+Сирия, США, neg, current
+Россия, США, neg, current
+Россия, ИГИЛ, neg, current
+Китай, США, neg, current
+НАТО, Россия, neg, current
+Россия, Финляндия, pos, current
+Штайнмайер, Трамп, neg, current
+США, Северная Корея, neg, current
+Россия, НАТО, neg, current
+Иран, США, neg, current
+Иран, Сирия, pos, current
+Сирия, Иран, pos, current
+Али Хаменеи, США, neg, current
+Али Хаменеи, Россия, pos, current
+Россия, Сирия, pos, current
+Обама, Сирия, neg, current
+Алирез Резахах, США, neg, current
+Алирез Резахах, Россия, pos, current
+Алирез Резахах, Сирия, pos, current
+Алирез Резахах, ИГИЛ, neg, current

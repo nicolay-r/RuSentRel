@@ -1,0 +1,3 @@
+Author, Хафез Асад, neg, current
+Author, Башар Асад, neg, current
+Author, Израиль, pos, current

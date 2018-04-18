@@ -1,0 +1,4 @@
+Штайнмайер, Россия, pos, current
+Зоммер, Путин, pos, current
+Ангела Меркель, Россия, neg, current
+Зоммер, Россия, pos, current

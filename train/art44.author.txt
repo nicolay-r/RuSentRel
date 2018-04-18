@@ -1,0 +1,5 @@
+author, Порошенко, neg, current
+author, Россия, neg, current
+author, Янукович, neg, current
+author, Дугин, neg, current
+author, Запад, pos, current

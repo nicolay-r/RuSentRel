@@ -1,0 +1,4 @@
+Россия, Украина, neg, current
+Россия, Европа, neg, current
+Европа, Россия, neg, current
+Россия, ИГИЛ, neg, current

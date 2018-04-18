@@ -1,0 +1,12 @@
+Беларусь, Россия, pos, current
+Россия, Беларусь, pos, current
+США, Беларусь, neg, past
+Евросоюз, Беларусь, neg, past
+Беларусь, США, pos, current
+Беларусь, Евросоюз, pos, current
+Якобашвили, Россия, neg, current
+Вольфганг Зендер, Беларусь, pos, current
+Андрей Казакевич, Беларусь, pos, current
+НАТО, Россия, neg, current
+Якобашвили, Запад, pos, current
+Валентин Рыбаков, Беларусь, pos, current

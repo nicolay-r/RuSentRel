@@ -1,0 +1,2 @@
+Россия, Европа, neg, current
+Европа, Россия, neg, current

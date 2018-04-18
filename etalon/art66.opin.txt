@@ -1,0 +1,16 @@
+Беларусь, Евросоюз, pos, current
+Беларусь, Россия, pos, current
+Беларусь, США, pos, current
+Грузия, Россия, neg, current
+Вольфганг Зандер, Беларусь, pos, current
+Евросоюз, Беларусь, neg, past
+Запад, Россия, neg, current
+Казакевич, Беларусь, pos, current
+НАТО, Россия, neg, current
+Россия, Беларусь, pos, current
+Россия, Запад, neg, current
+Рыбаков, Беларусь,pos, current
+США, Беларусь, neg, past
+Якобашвили, Запад, pos, current
+Якобашвили, Москва, neg, current
+Якобашвили, Россия, neg, current

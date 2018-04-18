@@ -1,0 +1,5 @@
+author, Путин, neg, current
+author, Янукович, neg, current
+author, Кадыров, neg, current
+author, Патрушев, neg, current
+author, Иванов, neg, current

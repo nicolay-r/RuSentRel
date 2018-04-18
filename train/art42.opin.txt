@@ -1,0 +1,11 @@
+Россия, Асад, pos, current
+Россия, Украина, neg, current
+США, Россия, neg, current
+ЕС, Россия, neg, current
+Россия, ИГИЛ, neg, current
+Всемирное антидопинговое агентство, Россия, neg, current
+Алексей Пушков, Всемирное антидопинговое агентство, neg, current
+Россия, Вашингтон, neg, current
+Боффи,Россия,neg, current
+Боффи,Кремль,neg, current
+Боффи,Путин,neg, current

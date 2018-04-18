@@ -1,0 +1,15 @@
+"Шведские демократы", НАТО, pos, current
+Левая партия, НАТО, pos, current
+Лёвен, Барак Обама, pos, current
+Лёвен, Россия, neg, current
+Лёвен, США, pos, current
+Лёвен, НАТО, pos, current
+НАТО, Финляндия, pos, current
+НАТО, Швеция, pos, current
+США, Швеция, pos, current
+Финляндия, НАТО, pos, current
+Финляндия, Швеция, pos, current
+Швеция, НАТО, pos, current
+Швеция, Россия, neg, current
+Швеция, США, pos, current
+Швеция, Финляндия, pos, current

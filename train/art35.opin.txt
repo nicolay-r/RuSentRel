@@ -1,0 +1,35 @@
+Хезболла, Асад, pos, current
+Хезболла, Тель-Авив, neg, current
+Али Лариджани (Ali Larijani), Россия, pos, current
+Али Хаменеи (Ayatollah Ali Khamenei), Лариджани, neg, current
+Али Хаменеи, Саид Джалили (Saeid Jalili), neg, current
+Асад, Хезболла, pos, current
+Нетаньяху, Хезболла, neg, current
+Египет, Израиль, pos, current
+Израиль, Хезболла, neg, current
+Израиль, Асад, neg, current
+Израиль, Египет, pos, current
+Израиль, Иордания, pos, current
+Израиль, Иран, neg, current
+Израиль, Москва, pos, current
+Израиль, Россия, pos, current
+Израиль, Саудовская Аравия, pos, current
+Иордания, Израиль, pos, current
+Иран, Асад, pos, current
+Иран, Израиль, neg, current
+Иран, Россия, pos, current
+Лариджани, Абдул Кадыр Хан (AQ Khan), neg, current
+Лариджани, Москва, pos, current
+Москва, Асад, pos, current
+Москва, Израиль, pos, current
+Москва, Тегеран, pos, current
+Моссад, Рухолла Мусави Хомейни (Ruhollah Khomeini), neg, past
+ООН, Иран, neg, past
+Россия, Асад, pos, current
+Россия, Израиль, pos, current
+Россия, Иран, pos, current
+Россия, ООН, pos, current
+Саудовская Аравия, Израиль, pos, current
+Саудовская Аравия, Иран, neg, current
+Тегеран, Асад, pos, current
+Тель-Авив, Хезболла, neg, current

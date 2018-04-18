@@ -1,0 +1,5 @@
+author, Ельцин, neg, current
+author, Россия, neg, current
+author, СССР, neg, current
+author, НАТО, pos, current
+author, Китай, pos, current

@@ -1,0 +1,13 @@
+Германия, Россия, pos, current
+Россия, Запад, neg, current
+Запад, Россия, neg, current
+Германия, США, pos, current
+Штайнмайер, Россия, pos, current
+Россия, Асад, pos, current
+Россия, Исламское государство, neg, current
+G7, Россия, neg, past
+Европа, Россия, pos, current
+Хандельсблатт, G7, neg, current
+Ближний Восток, Россия, pos, current
+Владимир Путин, G7, neg, current
+Россия, G7, neg, current
