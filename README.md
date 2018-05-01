@@ -1,7 +1,7 @@
 # RuSentRel
 
 | Parameter                                         |  Training collection |  Test collection |
-|:-------------------------------------------------:|:--------------------:|:----------------:|
+|---------------------------------------------------|:--------------------:|:----------------:|
 | Number of documents                               | 44                   | 29               |
 | Avg. number of sentences per doc.                 | 74.5                 | 137              |
 | Avg. number of mentioned NE per doc.              | 194                  | 300              |
