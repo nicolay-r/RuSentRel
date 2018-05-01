@@ -11,18 +11,17 @@ relations.
 | Parameter                                         |  Training collection |  Test collection |
 |---------------------------------------------------|:--------------------:|:----------------:|
 | Number of documents                               | 44                   | 29               |
-| Avg. number of sentences per doc.                 | 74.5                 | 137              |
-| Avg. number of mentioned NE per doc.              | 194                  | 300              |
-| Avg. number of unique NE per doc.                 | 33.3                 | 59.9             |
-| Avg. number of positive pairs of NE per doc.      | 6.23                 | 14.7             |
-| Avg. number of negative pairs of NE per doc.      | 9.33                 | 15.6             |
+| Sentences (avg./doc.)                             | 74.5                 | 137              |
+| NE (avg./doc.)                                    | 194                  | 300              |
+| unique NE (avg./doc.)                             | 33.3                 | 59.9             |
+| positive pairs of NE (avg./doc.)                  | 6.23                 | 14.7             |
+| negative pairs of NE (avg./doc.)                  | 9.33                 | 15.6             |
 | Share of attitudes expressed in a single sentence | 76.5\%               | 73\%             |
-| Avg. number of neutral pairs of NE per doc.       | 120                  | 276              |
 
 Statistics for the whole Collection:
 
 | Parameter                                        | Collection |
 |--------------------------------------------------|:----------:|
 | Avg. dist. between NE within a sentence in words | 10.2       |
-| Human labeling agreement ($F_1(N, P)$)           | 0.55       |
-| Contradiction (Accuracy measure)                 | 0.01       |
+| Human labeling agreement (F1(P, N))              | 0.55       |
+| Contradiction (Acc.)                             | 0.01       |
