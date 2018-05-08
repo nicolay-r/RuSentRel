@@ -1,7 +1,7 @@
-# RuSentRel
+# RuSentRel 1.0
 
-Corpus consisted of analytical articles from Internet-portal inosmi.ru. These
-are translated into Russian texts in the domain of international politics
+RuSentRel corpus of version 1.0 consisted of analytical articles from Internet-portal inosmi.ru. 
+These are translated into Russian texts in the domain of international politics
 obtained from foreign authoritative sources. The collected articles contain
 both the author's opinion on the subject matter of the article and a large
 number of references mentioned between the participants of the described
