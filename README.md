@@ -7,6 +7,13 @@ both the author's opinion on the subject matter of the article and a large
 number of references mentioned between the participants of the described
 situations. In total, 73 large analytical texts were labeled with about 2000
 relations.
+For verbose description, please see [References](#references) section.
+
+For model application, please refer to the following repositores: 
+* Scikit-learn classifiers [application](https://github.com/nicolay-r/sentiment-relation-classifiers)
+* Piecewise CNN [application](https://github.com/nicolay-r/sentiment-pcnn)
+
+# Parameters
 
 | Parameter                                         |  Training collection |  Test collection |
 |---------------------------------------------------|:--------------------:|:----------------:|
@@ -25,3 +32,14 @@ Statistics for the whole Collection:
 | Avg. dist. between NE within a sentence in words | 10.2       |
 | Human labeling agreement (F1(P, N))              | 0.55       |
 | Contradiction (Acc.)                             | 0.01       |
+
+# References
+<a name="references"></a>
+```
+@article{loukachevitch2018extracting,
+    Author = {Loukachevitch, N. and Rusnachenko, N.},
+    Title = {Extracting Sentiment Attitudes from Analytical Texts},
+    Journal = {In Proceedings of International conference Dialog-2018},
+    Year = {2018}
+}
+```
