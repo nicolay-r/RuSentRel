@@ -2,11 +2,19 @@
 
 RuSentRel corpus of version 1.0 consisted of analytical articles from Internet-portal inosmi.ru. 
 These are translated into Russian texts in the domain of international politics
-obtained from foreign authoritative sources. The collected articles contain
-both the author's opinion on the subject matter of the article and a large
-number of references mentioned between the participants of the described
-situations. In total, 73 large analytical texts were labeled with about 2000
+obtained from foreign authoritative sources.
+The collected articles contain both the author's opinion on the subject matter of the 
+article and a large number of references mentioned between the participants of the 
+described situations. In total, 73 large analytical texts were labeled with about 2000
 relations.
+
+The texts were processed by the automatic name entity (NE) recognizer, based on CRF method [[paper]](https://pdfs.semanticscholar.org/5eb6/6e658a9c306b846c84da8b5cbd0e150ab64a.pdf).
+NE were categorized into four classes: Persons, Organizations, Places and Geopolitical Entities 
+(states and capitals as states). 
+Automatic labeling contains a few errors that have not yet been corrected. Preliminary analysis 
+showed that the F-measure of determining the correct entity boundaries exceeds 95%.
+Recognized NE were composed in `*.ann` files.
+
 For verbose description, please see [References](#references) section.
 
 For model application, please refer to the following repositores: 
