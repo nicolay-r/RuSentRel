@@ -41,6 +41,22 @@ Statistics for the whole Collection:
 | Human labeling agreement (F1(P, N))              | 0.55       |
 | Contradiction (Acc.)                             | 0.01       |
 
+Separately for train and test collections, we compose and group these sets by sizes and the resulted statistics for the
+first eight groups is presented in table below.
+
+We decide a context **sentiment** with a pair of entities, when related sentiment attitude could be found.
+
+
+|train-sent | Total | 1     | 2      | 3     | 4       | 5       | 6      | 7      | 8    |
+|-----------|:------|:------|:-------|:------|:--------|:--------|:-------|:-------|------|
+|train-sent | 456   | 48\%  | 16\%   | 3.4\% | 4.3\%   | 2.0\%   | 0.9\%  | 0.9\%  | 0.9\%|
+|test-sent  | 655   | 47\%  | 13\%   | 5.0\% | 3.5\%   | 2.5\%   | 1.3\%  | 1.2\%  | 1.3\%|
+
+In most cases we deal with single-context attitudes in train and test collections. However, the distribution of the
+sentiment single-context attitudes represent 48%
+is about a half of all occured attitudes.
+Considering such a distinctive factor for attitudes labeling, it is important to take into account the labels of several contexts
+
 # References
 <a name="references"></a>
 ```
