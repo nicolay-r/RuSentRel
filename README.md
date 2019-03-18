@@ -52,8 +52,8 @@ We decide a context **sentiment** with a pair of entities, when related sentimen
 
 |train-sent | Total | 1     | 2      | 3     | 4       | 5       | 6      | 7      | 8    |
 |-----------|:------|:------|:-------|:------|:--------|:--------|:-------|:-------|------|
-|train-sent | 456   | 48\%  | 16\%   | 3.4\% | 4.3\%   | 2.0\%   | 0.9\%  | 0.9\%  | 0.9\%|
-|test-sent  | 655   | 47\%  | 13\%   | 5.0\% | 3.5\%   | 2.5\%   | 1.3\%  | 1.2\%  | 1.3\%|
+|train-sent | 467   | 47\%  | 15\%   | 4.4\% | 4.3\%   | 2.2\%   | 0.9\%  | 0.8\%  | 1.0\%|
+|test-sent  | 669   | 47\%  | 13\%   | 5.0\% | 4.2\%   | 2.4\%   | 1.0\%  | 1.1\%  | 1.3\%|
 
 In most cases we deal with single-context attitudes in train and test collections. However, the distribution of the
 sentiment single-context attitudes represent 48%
