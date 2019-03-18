@@ -1,6 +1,9 @@
-# RuSentRel 1.0
+# RuSentRel 1.1
 
-RuSentRel corpus of version 1.0 consisted of analytical articles from Internet-portal inosmi.ru. 
+> Comparing with v1.0, in v1.1 list of synonyms has been expanded. It covers all 
+extracted named entities in *.ann files.
+
+RuSentRel corpus of version 1.1 consisted of analytical articles from Internet-portal inosmi.ru. 
 These are translated into Russian texts in the domain of international politics
 obtained from foreign authoritative sources.
 The collected articles contain both the author's opinion on the subject matter of the 
