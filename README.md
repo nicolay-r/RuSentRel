@@ -56,7 +56,7 @@ We decide a context **sentiment** with a pair of entities, when related sentimen
 |test-sent  | 669   | 47\%  | 13\%   | 5.0\% | 4.2\%   | 2.4\%   | 1.0\%  | 1.1\%  | 1.3\%|
 
 In most cases we deal with single-context attitudes in train and test collections. However, the distribution of the
-sentiment single-context attitudes represent 48%
+sentiment single-context attitudes represent 47%
 is about a half of all occured attitudes.
 Considering such a distinctive factor for attitudes labeling, it is important to take into account the labels of several contexts
 
