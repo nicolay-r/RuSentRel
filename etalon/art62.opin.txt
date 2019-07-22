@@ -12,8 +12,7 @@
 Иран, Сирия, pos, current 
 Иран, США, neg, current
 Италия, Дональд Трамп, neg, current
-ФРГ, Дональд Трамп, neg, current
-Карлуш Кейруш, Хоссам Аль-Саед, neg, current 
+Карлуш Кейруш, Хоссам Аль-Саед, neg, current
 Китай, США, neg, current
 КНР, Вашингтон, neg, current
 Москва, Вашингтон, neg, current

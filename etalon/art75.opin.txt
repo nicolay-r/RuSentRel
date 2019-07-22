@@ -5,7 +5,6 @@
 ИГ, Кадыров, neg, current
 Иванов, Запад, neg, current
 Иванов, Англия, neg, current
-Кадыров, Владимир Путин, pos, current
 Кадыров, ИГ, neg, current
 Кадыров, Путин, pos, current
 Катерина Путина, Кирилл Шамалов, pos, current
@@ -36,7 +35,6 @@
 Путин, Сергей Собянин, pos, current
 Путин, США, neg, current
 Путин, Тимченко, pos, current
-Ротенберг, Путин, pos, current
 Сергей Иванов, Путин, pos, current
 Снеговая, Асад, neg, current
 Снеговая, Путин, neg, current

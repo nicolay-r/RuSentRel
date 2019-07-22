@@ -1,4 +1,3 @@
-Glencore, ИРИ, neg, past
 Gunvor, ИРИ, neg, past
 Mercuria, ИРИ, neg, past
 Trafigura, ИРИ, neg, past

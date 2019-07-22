@@ -8,7 +8,6 @@
 Буш, Ирак, neg, past
 Вашингтон, Австралия, pos, current
 Вашингтон, Южная Корея, pos, current
-Вашингтон, Асад, neg, current
 Великобритания, Асад, neg, current
 Виктор Янукович, Евросоюз, neg, past
 Гани, Обама, pos, current
@@ -56,7 +55,6 @@
 Путин, Трансатлантический альянс, neg, current
 Путин, Украина, neg, current
 Путин, Янукович, pos, current
-Россия, "Исламское государство", neg, current
 Россия, Запад, neg, current
 Россия, ИГИЛ, neg, current
 Саудовская Аравия, Иран, neg, current
@@ -76,9 +74,7 @@
 Франция, Обама, pos, past
 ЦРУ, Асад, neg, current
 Хиллари Клинтон, Каддафи, neg, past
-Эль-Кудс, Асад, pos, current
 Южная Корея, Вашингтон, pos, current
 Южная Корея, США, pos, current
-Япония, Америка, pos, current
 Япония, Вашингтон, pos, current
 Япония, США, pos, current
