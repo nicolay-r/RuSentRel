@@ -3,7 +3,6 @@
 Великобритания, Путин, neg, current
 Великобритания, Россия, neg, current
 Великобритания, Советский Союз, pos, past
-Великобритания, СССР, pos, past
 Великобритания, США, pos, past
 Великобритания, Эрдоган, pos, current
 ЕС, Путин, neg, current
@@ -22,11 +21,8 @@
 Россия, Турция, neg, current
 Россия, Украина, neg, past
 Советский Союз, Америка, pos, past
-Советский Союз, Великобритания, pos, past
 СССР, Великобритания, neg, past
-СССР, США, pos, past
 США, Россия, neg, current
-США, СССР, pos, past
 США, Эрдоган, pos, current
 Турция, ЕС, neg, current
 Турция, ИГИЛ, neg, current
