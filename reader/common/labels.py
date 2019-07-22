@@ -29,16 +29,15 @@ class Label:
     def _get_supported_labels():
         supported_labels = [
             PositiveLabel(),
-            NegativeLabel(),
-            NeutralLabel()
+            NegativeLabel()
         ]
         return supported_labels
 
     def to_str(self):
-        raise Exception("Not implemented exception")
+        raise NotImplementedError()
 
     def to_int(self):
-        raise Exception("Not implemented exception")
+        raise NotImplementedError()
 
     def to_uint(self):
         raise Exception("Not implemented exception")
@@ -74,62 +73,4 @@ class NegativeLabel(Label):
 
     def to_uint(self):
         return int(2)
-
-
-class NeutralLabel(Label):
-
-    def to_str(self):
-        return 'neu'
-
-    def to_int(self):
-        return int(0)
-
-    def to_uint(self):
-        return int(0)
-
-
-class LabelPair(Label):
-
-    def __init__(self, forward, backward):
-        assert(isinstance(forward, Label))
-        assert(isinstance(backward, Label))
-        self.__forward = forward
-        self.__backward = backward
-
-    @property
-    def Forward(self):
-        return self.__forward
-
-    @property
-    def Backward(self):
-        return self.__backward
-
-    @classmethod
-    def create_inverted(cls, other):
-        assert(isinstance(other, LabelPair))
-        return LabelPair(other.Backward, other.Forward)
-
-    @staticmethod
-    def _pair_to_int(i, j):
-        return int("{}{}".format(i, j), 3)
-
-    def to_uint(self):
-        return self._pair_to_int(self.__forward.to_uint(), self.__backward.to_uint())
-
-    def to_int(self):
-        return self.to_uint()
-
-    def to_str(self):
-        return u"{}-{}".format(self.__forward.to_str(), self.__backward.to_str())
-
-    @staticmethod
-    def from_uint(value):
-        for i in range(3):
-            for j in range(3):
-                if value == LabelPair._pair_to_int(i, j):
-                    return LabelPair(Label.from_uint(i), Label.from_uint(j))
-
-    @staticmethod
-    def from_int(value):
-        return LabelPair.from_uint(value)
 

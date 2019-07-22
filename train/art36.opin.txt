@@ -4,7 +4,6 @@
 Запад, Владимир Путин, neg, current
 Константинополь, Венеция,  neg, past
 Путин, Азербайджан, neg, current
-Путин, Америка, neg, current
 Путин, Башар аль-Асад, pos, current
 Путин, ВМС, neg, current
 Путин, Грузия, neg, past
@@ -12,7 +11,6 @@
 Путин, Иран, pos, current
 Путин, Россия, pos, current
 Путин, НАТО, neg, current
-Путин, Соединенные Штаты Америки, neg, current
 Путин, США, neg, current
 Путин, Украина, neg, past
 США, Иран, neg, current

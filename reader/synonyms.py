@@ -7,7 +7,7 @@ class RuSentRelSynonymsCollection(SynonymsCollection):
 
     @classmethod
     def from_file(cls, filepath, stemmer, is_read_only=True, debug=False):
-        assert(isinstance(filepath, unicode))
+        assert(isinstance(filepath, str))
         assert(isinstance(stemmer, Stemmer))
         by_index = []
         by_synonym = {}
@@ -46,7 +46,7 @@ class RuSentRelSynonymsCollection(SynonymsCollection):
                     id = SynonymsCollection.create_synonym_id(stemmer, value)
 
                     if id in by_synonym and debug:
-                        print "Collection already has a value '{}'. Skipped".format(value.encode('utf-8'))
+                        print("Collection already has a value '{}'. Skipped".format(value.encode('utf-8')))
                         continue
 
                     synonym_list.append(value)

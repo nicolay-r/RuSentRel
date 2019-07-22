@@ -19,7 +19,6 @@
 Путин, Габриэль, pos, current
 Титов, США, neg, current
 Россия, США, neg, current
-Евросоюз, США, pos, current
 Польша, США, pos, current
 Германия, США, pos, current
 Балтия, США, pos, current

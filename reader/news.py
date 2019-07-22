@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import io
-from helpers.news import RuSentRelNewsHelper
-from entities.collection import RuSentRelDocumentEntityCollection
+from .helpers.news import RuSentRelNewsHelper
+from .entities.collection import RuSentRelDocumentEntityCollection
 from reader.entities.entity import RuSentRelEntity
 from reader.sentence import RuSentRelSentence
 
@@ -25,7 +25,7 @@ class RuSentRelNews(object):
 
     @classmethod
     def from_file(cls, filepath, entities):
-        assert(isinstance(filepath, unicode))
+        assert(isinstance(filepath, str))
         assert(isinstance(entities, RuSentRelDocumentEntityCollection))
 
         sentences = RuSentRelNews.read_sentences(filepath)
@@ -48,7 +48,7 @@ class RuSentRelNews(object):
                 e_ind += 1
                 continue
 
-            if e.Value in [u'author', u'unknown']:
+            if e.Value in ['author', 'unknown']:
                 e_ind += 1
                 continue
 
@@ -63,13 +63,13 @@ class RuSentRelNews(object):
 
     @staticmethod
     def read_sentences(filepath):
-        assert(isinstance(filepath, unicode))
+        assert(isinstance(filepath, str))
 
         with io.open(filepath, 'rt', newline='\n', encoding='utf-8') as f:
 
             sentences = []
             line_start = 0
-            unknown_entity = u"Unknown}"
+            unknown_entity = "Unknown}"
 
             for line in f.readlines():
 
@@ -80,7 +80,7 @@ class RuSentRelNews(object):
 
                 line_end = line_start + len(line) - 1
 
-                if line != unicode('\r\n'):
+                if line != str('\r\n'):
                     s = RuSentRelSentence(text=line,
                                           char_ind_begin=line_start,
                                           char_ind_end=line_end)

@@ -1,6 +1,4 @@
 Сорос, Россия, neg, current
-Снеговая, Путин, neg, current
-Снеговая, Асад, neg, current
 Путин, Сергей Иванов, pos, current
 Путин, Николай Патрушев, pos, current
 Путин, Михаил Фрадков, pos, current

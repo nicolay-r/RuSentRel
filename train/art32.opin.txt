@@ -1,5 +1,4 @@
 Кристиан Йенсен, Евросоюз, pos, current
-Кристиан Йенсен, ЕС, pos, current
 Кристиан Йенсен, Великобритания, pos, current
 Кристиан Йенсен, Британия, pos, current
 Дания, Евросоюз, pos, current
@@ -19,12 +18,7 @@
 Россия, Европа, neg, current
 Национальный фронт, ЕС, neg, current
 Партия независимости Соединенного Королевства, ЕС, neg, current
-Дания, ЕС, pos, current
 Дэвид Кэмерон, ЕС, pos, current
 Европа, Россия, neg, current
 Европа, Путин, neg, current
-Евросоюз, Турция, pos, current
-Турция, Евросоюз, pos, current
-Евросоюз, Путин, neg, current
-Путин, Евросоюз, neg, current
 Ле Пен, Брюссель, neg, current

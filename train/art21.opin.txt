@@ -11,7 +11,6 @@
 Томас Грэм, Москва, neg, current
 Томас Грэм, Путин, neg, current
 США, Москва, neg, current
-Соединенные Штаты, Москва, neg, current
 Европа, НАТО, pos, past
 НАТО, Европа, pos, past
 Вашингтон, Путин, neg, present

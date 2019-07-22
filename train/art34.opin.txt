@@ -1,6 +1,5 @@
 G7, Россия, neg, current
 Путин, G7, neg, current
-Путин, Большая семерка, neg, current
 Путин, США, neg, past
 Путин, ЕС, neg, past
 Путин, Александр Залдостанов, pos, current

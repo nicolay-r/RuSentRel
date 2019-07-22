@@ -52,7 +52,7 @@ class EntityCollection(object):
         return self.__entities[index]
 
     def try_get_entities(self, value, group_key):
-        assert(isinstance(value, unicode))
+        assert(isinstance(value, str))
 
         if group_key == self.KeyType.BY_LEMMAS:
             key = self.__stemmer.lemmatize_to_str(value)

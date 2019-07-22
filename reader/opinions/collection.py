@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import io
-from opinion import RuSentRelOpinion
+from .opinion import RuSentRelOpinion
 from ..common.opinions.collection import OpinionCollection
 from ..common.labels import Label
 from ..common.synonyms import SynonymsCollection
@@ -37,7 +37,7 @@ class RuSentRelOpinionCollection(OpinionCollection):
         return cls(opinions, synonyms)
 
     def save(self, filepath):
-        assert(isinstance(filepath, unicode))
+        assert(isinstance(filepath, str))
 
         def __opinion_key(opinion):
             assert(isinstance(opinion, RuSentRelOpinion))
@@ -48,12 +48,12 @@ class RuSentRelOpinionCollection(OpinionCollection):
         with io.open(filepath, 'w') as f:
             for o in sorted_ops:
                 f.write(self.__opinion_to_str(o))
-                f.write(u'\n')
+                f.write('\n')
 
     @staticmethod
     def __opinion_to_str(opinion):
         assert(isinstance(opinion, RuSentRelOpinion))
-        return u"{}, {}, {}, current".format(
+        return "{}, {}, {}, current".format(
             opinion.SourceValue,
             opinion.TargetValue,
             opinion.Sentiment.to_str())

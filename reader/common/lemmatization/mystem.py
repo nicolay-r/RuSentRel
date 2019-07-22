@@ -1,5 +1,5 @@
 from pymystem3 import Mystem
-from base import Stemmer
+from .base import Stemmer
 
 
 class MystemWrapper(Stemmer):
@@ -25,11 +25,11 @@ class MystemWrapper(Stemmer):
         return self.__lemmatize_core(text)
 
     def lemmatize_to_str(self, text):
-        result = u" ".join(self.__lemmatize_core(text))
+        result = " ".join(self.__lemmatize_core(text))
         return result if len(result) != 0 else self.__process_original_text(text)
 
     def __lemmatize_core(self, text):
-        assert(isinstance(text, unicode))
+        assert(isinstance(text, str))
         result_list = self.__mystem.lemmatize(self.__process_original_text(text))
         return self.__filter_whitespaces(result_list)
 

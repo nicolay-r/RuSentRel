@@ -17,7 +17,7 @@ class OpinionCollection(object):
 
     def __add_synonym(self, value):
         if self.__synonyms.IsReadOnly:
-            raise Exception((u"Failed to add '{}'. Synonym collection is read only!".format(value)).encode('utf-8'))
+            raise Exception(("Failed to add '{}'. Synonym collection is read only!".format(value)).encode('utf-8'))
         self.__synonyms.add_synonym(value)
 
     def __create_index(self):
@@ -63,11 +63,11 @@ class OpinionCollection(object):
     def __add_opinion(opinion, collection, synonyms, check=True):
         key = opinion.create_synonym_id(synonyms)
 
-        assert(isinstance(key, unicode))
+        assert(isinstance(key, str))
         if check:
             if key in collection:
-                raise Exception(u"'{}->{}' already exists in collection".format(
-                    opinion.SourceValue, opinion.TargetValue).encode('utf-8'))
+                raise Exception("'{}->{}' already exists in collection".format(opinion.SourceValue,
+                                                                               opinion.TargetValue))
         if key in collection:
             return False
         collection[key] = opinion
@@ -75,9 +75,9 @@ class OpinionCollection(object):
 
     def iter_sentiment(self, sentiment):
         assert(isinstance(sentiment, Label))
-        for o in self.__opinions:
-            if o.sentiment == sentiment:
-                yield o
+        for opinion in self.__opinions:
+            if opinion.Sentiment == sentiment:
+                yield opinion
 
     def save(self, filepath):
         raise NotImplementedError()
@@ -86,6 +86,6 @@ class OpinionCollection(object):
         return len(self.__opinions)
 
     def __iter__(self):
-        for o in self.__opinions:
-            yield o
+        for opinion in self.__opinions:
+            yield opinion
 

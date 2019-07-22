@@ -1,4 +1,4 @@
-from core.processing.lemmatization.base import Stemmer
+from reader.common.lemmatization.base import Stemmer
 
 
 class SynonymsCollection(object):
@@ -21,7 +21,7 @@ class SynonymsCollection(object):
         return self.__stemmer
 
     def add_synonym(self, s):
-        assert(isinstance(s, unicode))
+        assert(isinstance(s, str))
         assert(not self.has_synonym(s))
         assert(not self.__is_read_only)
         id = self.create_synonym_id(self.__stemmer, s)
@@ -29,18 +29,18 @@ class SynonymsCollection(object):
         self.__by_index.append([s])
 
     def has_synonym(self, s):
-        assert(isinstance(s, unicode))
+        assert(isinstance(s, str))
         id = self.create_synonym_id(self.__stemmer, s)
         return id in self.__by_synonym
 
     def get_synonyms_list(self, s):
-        assert(isinstance(s, unicode))
+        assert(isinstance(s, str))
         id = self.create_synonym_id(self.__stemmer, s)
         index = self.__by_synonym[id]
         return self.__by_index[index]
 
     def get_synonym_group_index(self, s):
-        assert(isinstance(s, unicode))
+        assert(isinstance(s, str))
         return self._get_group_index(s)
 
     def _get_groups_count(self):
@@ -50,7 +50,6 @@ class SynonymsCollection(object):
         id = self.create_synonym_id(self.__stemmer, s)
         return self.__by_synonym[id]
 
-    #TODO: Deprecated. Use iter instead
     def get_group_by_index(self, index):
         assert(isinstance(index, int))
         return self.__by_index[index]

@@ -1,5 +1,4 @@
 Путин, ЕС, neg, current
-Путин, Европа, neg, current
 Украина, Путин, neg, current
 Путин, Украина, neg, current
 Европа, Россия, neg, current

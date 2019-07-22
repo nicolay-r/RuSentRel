@@ -7,8 +7,8 @@ class Opinion(object):
     """
 
     def __init__(self, source_value, target_value, sentiment):
-        assert(isinstance(source_value, unicode))
-        assert(isinstance(target_value, unicode))
+        assert(isinstance(source_value, str))
+        assert(isinstance(target_value, str))
         assert(isinstance(sentiment, Label))
         self.__source_value = source_value.lower()
         self.__target_value = target_value.lower()
@@ -36,7 +36,7 @@ class Opinion(object):
 
     def create_synonym_id(self, synonyms):
         assert(isinstance(synonyms, SynonymsCollection))
-        return u"{}_{}".format(
+        return "{}_{}".format(
             synonyms.get_synonym_group_index(self.__source_value),
             synonyms.get_synonym_group_index(self.__target_value))
 

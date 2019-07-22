@@ -8,7 +8,7 @@ class RuSentRelEntity(Entity):
 
     def __init__(self, id_in_doc, str_type, char_index_begin, char_index_end, value):
         assert(isinstance(id_in_doc, int))
-        assert(isinstance(str_type, unicode))
+        assert(isinstance(str_type, str))
         assert(isinstance(char_index_begin, int))
         assert(isinstance(char_index_end, int))
         super(RuSentRelEntity, self).__init__(value=value,

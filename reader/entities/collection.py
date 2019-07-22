@@ -1,6 +1,6 @@
 # -*- coding: utf-7 -*-
 import io
-from entity import RuSentRelEntity
+from .entity import RuSentRelEntity
 from ..common.lemmatization.base import Stemmer
 from ..common.entities.collection import EntityCollection
 from ..common.synonyms import SynonymsCollection
