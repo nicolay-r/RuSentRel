@@ -19,8 +19,10 @@ stemmer = MystemWrapper()
 synonyms = RuSentRelSynonymsCollection.from_file('synonyms.txt', stemmer=stemmer)
 
 # Reading 'train' subfolder of collection.
-train_root = 'train'
-for news_id in utils.get_rusentrel_train_indices():
+train_root = 'test'
+for news_id in utils.get_rusentrel_test_indices():
+
+    print("NewsID: {}".format(news_id))
 
     # Init filepaths
     entities_filepath = utils.get_rusentrel_entity_filepath(news_id, root=train_root)
@@ -36,7 +38,6 @@ for news_id in utils.get_rusentrel_train_indices():
     # Application
     #############
 
-    print("NewsID: {}".format(news_id))
 
     # Example: Access to the read OPINIONS collection.
     for opinion in opininons:

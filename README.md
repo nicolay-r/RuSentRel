@@ -1,7 +1,8 @@
 # RuSentRel 1.1
-
 > Comparing with v1.0, in v1.1 list of synonyms has been expanded. It covers all 
 extracted named entities in *.ann files.
+
+![](images/graph.png)
 
 RuSentRel corpus [[paper](https://arxiv.org/pdf/1808.08932.pdf)] of version 1.1 consisted of analytical articles from Internet-portal inosmi.ru. 
 These are translated into Russian texts in the domain of international politics
@@ -24,7 +25,13 @@ For model application, please refer to the following repositores:
 * Scikit-learn classifiers [application](https://github.com/nicolay-r/sentiment-relation-classifiers)
 * Piecewise CNN [application](https://github.com/nicolay-r/sentiment-pcnn)
 
-# Parameters
+## Collection Reader ![](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+
+Folder `reader` contains a collection reader (source file parsers), written in Python-3.6.
+
+Please refer to [read.py](read.py), as it provides an example of how this collection could be parsed/readed. 
+
+## Parameters
 
 | Parameter                                         |  Training collection |  Test collection |
 |---------------------------------------------------|:--------------------:|:----------------:|
@@ -60,7 +67,7 @@ sentiment single-context attitudes represent 47%
 is about a half of all occured attitudes.
 Considering such a distinctive factor for attitudes labeling, it is important to take into account the labels of several contexts
 
-# References
+## References
 <a name="references"></a>
 ```
 @article{loukachevitch2018extracting,
