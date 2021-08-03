@@ -1,4 +1,4 @@
-# RuSentRel 1.0-rc
+# RuSentRel 1.0
 
 RuSentRel corpus of version 1.0 consisted of analytical articles from Internet-portal inosmi.ru. 
 These are translated into Russian texts in the domain of international politics
