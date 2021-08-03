@@ -1,6 +1,7 @@
 # RuSentRel 1.1
-> Comparing with v1.0, in v1.1 list of synonyms has been expanded. It covers all 
-extracted named entities in *.ann files.
+> **Release Notes**:
+>   * Comparing with v1.0, in v1.1 list of synonyms has been expanded; not it covers all extracted named entities in `*.ann` files.
+>   * Providing collection reader;
 
 ![](images/graph.png)
 
